@@ -1,0 +1,6 @@
+**/*.class
+.classpath
+.factorypath
+.project
+.settings/
+target/
