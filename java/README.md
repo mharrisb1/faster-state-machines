@@ -8,5 +8,5 @@
 1. [Gang of Four State Pattern](https://gameprogrammingpatterns.com/state.html#the-state-pattern)
 2. [Naive Switch-Based State Pattern](https://gameprogrammingpatterns.com/state.html#enums-and-switches)
 3. State Table Pattern
-   a. 2D Array
-   b. 1D Array
+   - 2D Array
+   - 1D Array
